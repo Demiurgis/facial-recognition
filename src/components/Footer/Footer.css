@@ -1,0 +1,10 @@
+.credits {
+	text-decoration: none;
+	color: rgb(100, 100, 100);
+	font-size: .75em;
+}
+
+.credits a {
+	text-decoration: none;
+	color: rgb(100, 100, 100);
+}
