@@ -134,10 +134,3 @@ class App extends Component {
 }
 
 export default App;
-
-//add enter key functionality
-//clear input upon submission
-//if no face is found => notice should alert such and entries should not increase
-//if face found => notice that a face was found
-//particles.js => fix left padding issue. fix particles updating with state change
-//add register warning about password security
