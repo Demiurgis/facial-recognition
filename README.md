@@ -1,5 +1,6 @@
-Site is hosted: https://facial-recognition-shipos.herokuapp.com/
-Server Repository: https://github.com/Demiurgis/facial-recognition-server
+##Facial Recognition Project
+#Site is hosted: https://facial-recognition-shipos.herokuapp.com/
+#Server Repository: https://github.com/Demiurgis/facial-recognition-server
 
 A responsive React App that recognizes the presence of a face in a photograph. Utilizes a REST server API with Express and Node.js. Registration and Sign-In utilizes a PostgreSQL database. API for facial recognition provided by Clarifai API.
 
